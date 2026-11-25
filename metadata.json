@@ -1,0 +1,8 @@
+{
+  "name": "SiliconBench 3D",
+  "description": "Interactive 3D Motherboard Assembly and PC Building Simulator with hardware compatibility checking, cable routing, and power-on POST diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
